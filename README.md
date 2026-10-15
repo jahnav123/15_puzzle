@@ -1,1 +1,1 @@
-# tic-tac-toe
+# 15 Puzzle
